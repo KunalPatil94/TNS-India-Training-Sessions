@@ -1,8 +1,9 @@
 package loops;
 
 public class WhileLoop {
+	//no of iterations are unknown.
 	//used when we want to check the condition and iterate.
-	//aka. entry control loop.
+	//a.k.a. Entry control loop.
 	public static void main(String[] args) {
 	int i=1;
 	while(i<=100) {
